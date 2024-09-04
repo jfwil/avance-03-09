@@ -1,0 +1,10 @@
+edu\avanzada\taller1\modelo\Excepcion.class
+edu\avanzada\taller1\modelo\InsertarPersona.class
+edu\avanzada\taller1\control\Control.class
+edu\avanzada\taller1\modelo\Reclutado.class
+edu\avanzada\taller1\control\Launcher.class
+edu\avanzada\taller1\modelo\Remiso.class
+edu\avanzada\taller1\modelo\Reservista.class
+edu\avanzada\taller1\modelo\Aplazado.class
+edu\avanzada\taller1\modelo\Persona.class
+edu\avanzada\taller1\vista\Vista.class
